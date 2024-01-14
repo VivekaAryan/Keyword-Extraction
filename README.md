@@ -1,1 +1,3 @@
 # Keyword-Extraction
+
+Leveraging the power of BERT (Bidirectional Encoder Representations from Transformers), I harnessed the contextual embeddings from the final hidden layer of its output. This strategic choice allowed for a nuanced understanding of the text body, capturing intricate contextual nuances. By employing this information, I successfully developed a robust system to automatically extract the top 5 keywords from any given text. This approach not only enhanced keyword extraction accuracy but also demonstrated the efficacy of utilizing contextual embeddings for extracting meaningful insights from textual data.
